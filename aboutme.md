@@ -2,6 +2,12 @@
 layout: page
 ---
 
-Hi, my name is Anurag Sodhi! I am currently a junior at Centennial High School (graduating in 2024) interested in chemistry, physics, math, computer science, and loads more. I do a lot of academic competitions, including chemistry olympiad, Science Bowl, Science Olympiad, and quizbowl, among others. I also lead/help lead numerous clubs at my school, include the math team, science journal, python club, and National Math Honor Society. 
+# Anurag Sodhi
 
-Outside of academics, I am a third-dan black belt in Taekwondo. I also enjoy playing badmintion (very poorly), Ultimate Frisbee (also very poorly), chess (even worse somehow?), and Tetris. I am also an unapologetic fan of the Pittsburgh Steelers.
+Junior (11th) at Centennial High School (MD)
+
+Activities: Science Bowl, Science Olympiad, Chemistry Olympiad, Quizbowl, Math Team
+Interests: Chemistry, Physics, Computer Science (ML), Math
+Hobbies: Tetris, Chess, Poker; Badminton, Frisbee
+
+"The end of man is knowledge, but there is one thing he can't know. He can't know whether knowledge will save him or kill him. He will be killed, all right, but he can't know whether he is killed because of the knowledge which he has got or because of the knowledge which he hasn't got and which if he had it, would save him."
